@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: rgb(197, 243, 243);
+    margin: 0;
+    padding: 0;
+}
+section{
+    padding: 20;
+}
+nav{
+    background-color: #c0c0dd;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul{
+    display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
